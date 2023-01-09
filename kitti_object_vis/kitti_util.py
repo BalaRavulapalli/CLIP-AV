@@ -1,7 +1,4 @@
 """ Helper methods for loading and parsing KITTI data.
-
-Author: Charles R. Qi, Kui Xu
-Date: September 2017/2018
 """
 from __future__ import print_function
 
