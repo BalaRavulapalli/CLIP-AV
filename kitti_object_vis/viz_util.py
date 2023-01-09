@@ -1,9 +1,4 @@
 """ Visualization code for point clouds and 3D bounding boxes with mayavi.
-
-Modified by Charles R. Qi 
-Date: September 2017
-
-Ref: https://github.com/hengck23/didi-udacity-2017/blob/master/baseline-04/kitti_data/draw.py
 """
 
 import numpy as np
