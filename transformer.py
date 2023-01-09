@@ -1,7 +1,7 @@
 """
 Modified from DETR Transformer class.
 
-Copy-paste from torch.nn.Transformer with modifications:
+modifications:
     * positional encodings are passed in MHattention
     * extra LN at the end of encoder is removed
     * decoder returns a stack of activations from all decoding layers
